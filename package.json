@@ -5,7 +5,7 @@
   "directories": {
     "test": "test"
   },
-  "repository": "https://github.com/pitipon/nd1309-flightsurety-dapp",
+  "repository": "https://github.com/pitipon/nd1309--FlightSurety",
   "license": "MIT",
   "scripts": {
     "test": "truffle test ./test/flightSurety.js",
